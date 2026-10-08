@@ -1,0 +1,2 @@
+ALTER TABLE purchase_plan
+    ADD COLUMN approved_at TIMESTAMP WITH TIME ZONE;
